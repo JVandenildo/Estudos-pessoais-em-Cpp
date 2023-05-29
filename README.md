@@ -1,2 +1,3 @@
-# Studies In Cpp
- Repository for C++ algorithm/syntax testing.
+# Studies In Cpp  
+
+Repository for C++ algorithm/syntax testing.  
