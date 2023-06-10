@@ -1,9 +1,10 @@
 #include <iostream>
-#include "my_functions.hpp"
+#include "MyFunctions.hpp"
 using namespace std;
 
 int main() {
-    Hello("New text");
+    Hello("Modular programming is awesome");
+    cout << is_palindrome("racecar"); // 1 is for true, 0 for false
 
     return 0;
 }
