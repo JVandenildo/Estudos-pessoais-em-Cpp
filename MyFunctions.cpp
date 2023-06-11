@@ -6,7 +6,7 @@ void Hello(string there){
 }
 
 bool is_palindrome(string text) {
-    std::string reversed_text = "";
+    string reversed_text = "";
 
     for (int i = text.size() - 1; i >= 0; i--) {
         reversed_text += text[i];
