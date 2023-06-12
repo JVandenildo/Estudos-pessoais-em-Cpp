@@ -2,6 +2,10 @@
 
 Repository for C++ algorithm/syntax testing.  
 
+## Summary
+
+1. [Websites of interest](## Websites of interest)
+
 ## Websites of interest
 
 - [isocpp.org](https://isocpp.org/);  
