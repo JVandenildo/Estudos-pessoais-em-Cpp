@@ -1,5 +1,5 @@
 #include <iostream>
-#include "MyFunctions.hpp"
+#include "MyFunctions.hpp" // note the quotations marks and which file is including
 using namespace std;
 
 int main() {
