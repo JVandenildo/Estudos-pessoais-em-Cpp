@@ -9,10 +9,11 @@ Repository for C++ algorithm/syntax testing.
 
 ## Naming conventions for C++
 
-There ain't a naming convention for C++.
+There ain't a core naming convention for C++.
 
 ## Websites of interest
 
 - [isocpp.org](https://isocpp.org/);
 - [Bjarne Stroustrup: Why I Created C++ | Big Think](https://www.youtube.com/watch?v=JBjjnqG0BP8), YouTube video on Big Think channel;
-- [Cpp Core Guide Lines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines).
+- [Cpp Core Guide Lines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines);
+- [google.github.io/styleguide/cppguide.html](https://google.github.io/styleguide/cppguide.html).
