@@ -1,0 +1,15 @@
+{
+	"cSpell.words": [
+		"bigthink",
+		"Bjarne",
+		"cppguide",
+		"isocpp",
+		"learncpp",
+		"racecar",
+		"Stroustrup",
+		"styleguide"
+	],
+	"[markdown]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
