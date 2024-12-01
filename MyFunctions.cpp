@@ -1,18 +1,21 @@
 #include <iostream>
-using namespace std;
 
-void Hello(string there){
-    cout << there << "!\n";
+void Hello(std::string there)
+{
+    std::cout << there << "!\n";
 }
 
-bool is_palindrome(string text) {
-    string reversed_text = "";
+bool is_palindrome(std::string text)
+{
+    std::string reversed_text = "";
 
-    for (int i = text.size() - 1; i >= 0; i--) {
+    for (int i = text.size() - 1; i >= 0; i--)
+    {
         reversed_text += text[i];
     }
 
-    if (reversed_text == text) {
+    if (reversed_text == text)
+    {
         return true;
     }
 
