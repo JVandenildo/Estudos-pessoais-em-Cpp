@@ -1,13 +1,12 @@
 #include <iostream>
 #include <fstream> // library for file handle
 #include <string>
-using namespace std;
 
 // int main()
 // {
-//     fstream myFile;
+//     std::fstream myFile;
 
-//     myFile.open("testFile.txt", ios::out); // write mode
+//     myFile.open("testFile.txt", std::ios::out); // write mode
 //     // receives 2 parameters: file's name, how to open that file, if the opened file does not exist it will be created
 
 //     if (myFile.is_open())
@@ -18,7 +17,7 @@ using namespace std;
 //         myFile.close(); // a must after use a file
 //     }
 
-//     // myFile.open("testFile.txt", ios::app); // write mode
+//     // myFile.open("testFile.txt", std::ios::app); // write mode
 //     // // out overwrites the file, app appends new content
 
 //     // if (myFile.is_open())
@@ -28,13 +27,13 @@ using namespace std;
 //     //     myFile.close(); // a must after use a file
 //     // }
 
-//     // myFile.open("testFile.txt", ios::in); // read mode
+//     // myFile.open("testFile.txt", std::ios::in); // read mode
 //     // if (myFile.is_open())
 //     // {
-//     //     string line;
+//     //     std::string line;
 //     //     while (getline(myFile, line))
 //     //     {
-//     //         cout << line << endl;
+//     //         std::cout << line << std::endl;
 //     //     }
 
 //     //     myFile.close();
