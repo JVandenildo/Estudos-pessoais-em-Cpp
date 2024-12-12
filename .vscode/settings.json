@@ -6,11 +6,15 @@
 		"isocpp",
 		"learncpp",
 		"racecar",
+		"smod",
 		"Stroustrup",
 		"styleguide"
 	],
 	"[markdown]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
-	"editor.formatOnSave": true
+	"editor.formatOnSave": true,
+	"files.associations": {
+		"iostream": "cpp"
+	}
 }

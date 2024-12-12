@@ -1,5 +1,5 @@
-# .vscode
-tasks.json
+# vscode folder
+.vscode/
 
 # Prerequisites
 *.d
