@@ -56,5 +56,6 @@ int main() {
 
 ### Referências em vídeos
 
-- "[Bjarne Stroustrup: Why I Created C++ | Big Think](https://www.youtube.com/watch?v=JBjjnqG0BP8)", do canal [@bigthink](https://www.youtube.com/@bigthink);
-- "[Tutorial de C++ para iniciantes - Curso Completo](https://youtu.be/vLnPwxZdW4Y?si=4C6B5UUAXWaQCu_i)" do canal [@freecodecamp](https://www.youtube.com/@freecodecamp).
+- "[Bjarne Stroustrup: Why I Created C++ | Big Think](https://youtu.be/JBjjnqG0BP8)", do canal [@bigthink](https://www.youtube.com/@bigthink);
+- "[Tutorial de C++ para iniciantes - Curso Completo](https://youtu.be/vLnPwxZdW4Y)" do canal [@freecodecamp](https://www.youtube.com/@freecodecamp);
+- "[The Untold Story of C++](https://youtu.be/nw23GM79HcY)" do canal [@CodeSource](https://www.youtube.com/@CodeSource).
